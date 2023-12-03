@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\project2\bin\Debug\Database1.mdf
+C:\Users\lenovo\source\repos\project2\bin\Debug\Database1_log.ldf
+C:\Users\lenovo\source\repos\project2\bin\Debug\project2.exe.config
+C:\Users\lenovo\source\repos\project2\bin\Debug\project2.exe
+C:\Users\lenovo\source\repos\project2\bin\Debug\project2.pdb
+C:\Users\lenovo\source\repos\project2\obj\Debug\project2.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\project2\obj\Debug\project2.addmobile.resources
+C:\Users\lenovo\source\repos\project2\obj\Debug\project2.Form1.resources
+C:\Users\lenovo\source\repos\project2\obj\Debug\project2.Properties.Resources.resources
+C:\Users\lenovo\source\repos\project2\obj\Debug\project2.showmobile.resources
+C:\Users\lenovo\source\repos\project2\obj\Debug\project2.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\project2\obj\Debug\project2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\project2\obj\Debug\project2.exe
+C:\Users\lenovo\source\repos\project2\obj\Debug\project2.pdb
